@@ -1,0 +1,52 @@
+body {
+    background-color: gainsboro;
+ }
+ .container {
+    margin: auto;
+    width: 80%;
+ }
+
+ #nodeInfo > div{
+    width: 90%;
+    background-color: #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    
+ }
+
+ .firstSect {
+    margin-bottom: 20px;
+ }
+ .firstSect button ,
+ #Add ,#Update {
+    background-color: green;
+    color:white;
+    width:150px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+    font-size: 20px;
+ }
+ .container input[type="text"]{
+    width:200px;
+    height:18px;
+    border-radius: 7px;
+    padding: 10px;
+ }
+ .container textarea{
+    padding-bottom: 10px;
+    width:400px;
+    padding: 10px;
+    border-radius: 7px;
+    padding: 10px;
+    resize: none;
+ }
+ .final {
+    margin-bottom: 15px;
+ }
+ #bodyAdd {
+    width: 400px;
+ }
+
+ 
